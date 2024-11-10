@@ -1,0 +1,16 @@
+01) What is Jenkins used for?
+
+
+2) Install jenkins with docker image.
+
+
+3) what is plugins in jenkins ?
+
+
+4) Create free style project and link it to private git repo containing any dockerfile then biuld an image from this dockerfile and push it to private docker repo 
+
+
+5) run another freestyle project to run bash script located on github rebo 
+
+
+
